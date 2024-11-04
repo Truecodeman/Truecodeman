@@ -1,5 +1,5 @@
-- 👋 Hi, I’m SteVen Sun
+- 👋 Hi, I’m Steven Sun
 - 👀 I’m interested in riding
-- 🌱 I’m currently learning Python,C++
+- 🌱 I’m currently learning Python,LLM,RAG...
 
 
